@@ -1,0 +1,22 @@
+.fg{
+    /* color:#C4DFE6 ; */
+    color: #92ccd4;
+    font-size: 30px;
+}
+.fg1{
+    /* color:#C4DFE6 ; */
+    color:#C4DFE6;
+    font-size: 30px;
+}
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.btn-bg{
+    background-color: #3a7881;
+}
+body{
+    overflow-x: hidden;
+}
